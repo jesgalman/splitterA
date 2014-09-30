@@ -4,5 +4,7 @@
     <string name="app_name">BillSplit</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="green">#00CC33</string>
 
 </resources>
